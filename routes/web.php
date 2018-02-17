@@ -12,5 +12,5 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return redirect('https://docs.google.com/forms/d/e/1FAIpQLSdNJweWGdEUy4_wBTjiOWtTor5Col-enWk3aMrMGfLItVMt2w/viewform');
 });
